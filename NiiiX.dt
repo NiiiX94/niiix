@@ -1,9 +1,0 @@
-<theme>
-    <name>NiiiX</name>
-    <skinType>1</skinType>
-    <description>A dark, modern theme based on shades of grey and blue.</description>
-    <previewUri>flatDarkPreview.png</previewUri>
-	<version>2.44.1</version>
-	<dofusVersion>2.44</dofusVersion>
-	<author>NiiiX</author>
-</theme>
